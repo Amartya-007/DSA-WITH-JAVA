@@ -35,29 +35,36 @@ Before diving into DSA, it is recommended to have a basic understanding of the f
   * Creating and using classes and objects
   * Constructors
   * **Practice:** Create classes for real-world entities (e.g., Car, BankAccount) with attributes and methods.
+
 * **Inheritance:**
   * Superclasses and subclasses
   * Method overriding
   * **Practice:** Implement inheritance in programs (e.g., create a superclass Animal with subclasses Dog and Cat).
+
 * **Polymorphism:**
   * Method overloading
   * Runtime polymorphism
   * **Practice:** Demonstrate polymorphism with method overloading and overriding in a class hierarchy.
+
 * **Encapsulation:**
   * Access modifiers (private, public, protected)
   * Getters and setters
   * **Practice:** Implement encapsulation by creating classes with private attributes and public getter/setter methods.
+
 * **Abstraction:**
   * Abstract classes and methods
   * Interfaces
   * **Practice:** Use abstract classes and interfaces in programs (e.g., create an interface Shape with methods area and perimeter).
 
-#### 3. Understand Time and Space Complexity
+
+#### 3. Understand Time and Space Complexity 
+* **[ Please Refer to Youtube videos for more understanding ]**
 * **Time Complexity Analysis:**
   * Big O notation
   * Asymptotic analysis (best, average, worst cases)
   * Common time complexities (constant, logarithmic, linear, quadratic, exponential)
   * **Practice:** Analyze the time complexity of basic algorithms and write programs to measure their performance.
+
 * **Space Complexity Analysis:**
   * Memory usage
   * Auxiliary space
@@ -118,7 +125,7 @@ Before diving into DSA, it is recommended to have a basic understanding of the f
   * **Practice:** Implement backtracking algorithms to solve constraint satisfaction problems.
 
 #### 8. Practice and Problem Solving
-* **Online Platforms:** LeetCode, HackerRank, Codeforces, GeeksforGeeks
+* **Online Platforms:** LeetCode, HackerRank, Codeforces, GeeksforGeeks , Codechef
   * **Practice:** Regularly solve problems on these platforms to enhance your problem-solving skills.
 * **Competitive Programming:** Participate in contests
   * **Practice:** Join coding competitions to test your skills under time constraints.
