@@ -58,7 +58,7 @@ Before diving into DSA, it is recommended to have a basic understanding of the f
 
 
 #### 3. Understand Time and Space Complexity 
-* **[ Please Refer to Youtube videos for more understanding ]**
+ **[ Please Refer to Youtube videos for more understanding ]**
 * **Time Complexity Analysis:**
   * Big O notation
   * Asymptotic analysis (best, average, worst cases)
