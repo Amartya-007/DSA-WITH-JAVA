@@ -24,7 +24,7 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 8. **Practice and Problem Solving**
 9. **Continual Learning**
 
-### For detailed topics and practice exercises, please refer to the [Roadmap](ROADMAP.md).
+### For detailed topics and practice exercises, please refer to the [Roadmap](roadmap.md).
 
 
 ## 🌟 Highlights
