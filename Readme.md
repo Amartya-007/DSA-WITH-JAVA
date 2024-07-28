@@ -65,10 +65,13 @@ Thank you for considering contributing to this project! Your contributions will 
 
 
 
-## 🙌 Connect with Me
+## 🙌 For any query Connect with me 
 * **Name:** Amartya Vishwakarma
+
 * **GitHub:** [Amartya-007](https://github.com/Amartya-007)
+
 * **Email** Amartya1820@gmail.com
-* ## For any Query please contact via above details
+
+
 
 # Happy coding! 😊
