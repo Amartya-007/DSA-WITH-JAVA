@@ -40,7 +40,7 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/DSA-WITH-JAVA.git
+   git clone https://github.com/Amartya-007/DSA-WITH-JAVA.git
    cd DSA-WITH-JAVA
    ```
 
