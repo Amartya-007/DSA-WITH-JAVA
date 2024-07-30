@@ -29,24 +29,24 @@
 
  ! What is Keywords ?
 
-* Keywords are the reserved words in Java. We cannot use a keyword as an identifier.
+ Keywords are the reserved words in Java. We cannot use a keyword as an identifier.
 
-* Keywords are case sensitive.
+ Keywords are case sensitive.
 
-* There are 50 reserved keywords in Java.
+ There are 50 reserved keywords in Java.
 
 * Keywords in Java are: 
     abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do, double, else, enum, extends, final, finally, float, for, goto, if, implements, import, instanceof, int, interface, long, native, new, package, private, protected, public, return, short, static, strictfp, super, switch, synchronized, this, throw, throws, transient, try, void, volatile, while.
 
-* Keywords in Java are also called as "Reserved Words".
+ Keywords in Java are also called as "Reserved Words".
 
-* Keywords are the words whose meaning has already been explained to the compiler and hence, cannot be changed.
+ Keywords are the words whose meaning has already been explained to the compiler and hence, cannot be changed.
 
-* We cannot use keywords as a variable name, class name or method name.
+ We cannot use keywords as a variable name, class name or method name.
 
-* Keywords are the backbone of a program and have a special meaning.
+ Keywords are the backbone of a program and have a special meaning.
 
-* Keywords are the reserved words that have a specific meaning relevant to a compiler.
+ Keywords are the reserved words that have a specific meaning relevant to a compiler.
 
 * Keywords are the reserved words that have a predefined meaning in Java.
 
@@ -67,7 +67,7 @@ class Keywords {
 
 /* 
 
-* how is this a keyword example?
+ how is this a keyword example?
 
     * In the above example, we have used the "class", "public", "static", "void", "main", "String" and "System.out.println" keywords.
 
@@ -101,12 +101,14 @@ class Identifiers {
 
 /* how is this an identifier example?
 
-/   * In the above example, we have used the ( Identifiers ) as a class name ( main ) as a method name, "args" as a variable name, "a", "b" and "c" as variable names.
-    * as a method name, "args" as a variable name, "a", "b" and "c" as variable names.
+/   
+     In the above example, we have used the ( Identifiers ) as a class name ( main ) as a method name, "args" as a variable name, "a",  "b" and "c" as variable names.
+    
+    * As a method name, "args" as a variable name, "a", "b" and "c" as variable names.
 
-    * These are the user-defined names and are called as identifiers.
+     These are the user-defined names and are called as identifiers.
 
-    * Identifiers are the name given to the entities like variables, classes, methods, packages, etc.
+     Identifiers are the name given to the entities like variables, classes, methods, packages, etc.
 
 */
 
@@ -162,4 +164,5 @@ class DataTypes {
     * The boolean data type is used to store the boolean value.
 
 */
+
 
