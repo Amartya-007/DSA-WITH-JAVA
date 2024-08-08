@@ -4,29 +4,32 @@ public class Operators {
         Operators Definition:
         Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.
         */
-        // Types Of Operators
+
+        //* Types Of Operators
+        
         int a = 10;
         int b = 30;
+        
         // 1. Arithmetic Operators (these are binary operators)
         // Addition (returns the sum)
+        
         int sum = a + b;
-        System.out.println("The sum is: " + sum);
+        System.out.println("The sum is: " + sum); // The sum is: 40 
 
         // Subtraction (returns the difference)
         int diff = a - b;
-        System.out.println("The difference is: " + diff);
+        System.out.println("The difference is: " + diff);   // The difference is: -20
 
         // Multiplication (returns the product)
         int prod = a * b;
-        System.out.println("The product is: " + prod);
+        System.out.println("The product is: " + prod);  // The product is: 300
 
         // Division (returns the Quotient)
         int quot = a / b;
-        System.out.println("The quotient is: " + quot);
-
+        System.out.println("The quotient is: " + quot); // The quotient is: 0  however 10/30 = 0.3333 but as both are integers so it will return 0
         // Modulo or Remainder (returns the remainder upon division)
         int rem = a % b;
-        System.out.println("The remainder is: " + rem);
+        System.out.println("The remainder is: " + rem); // The remainder is: 10
 
         // 2. Unary Operators
         int k = 40;
@@ -116,6 +119,6 @@ public class Operators {
 
         int var = 10;
         boolean result = var >= 10 ? true : false;
-        System.out.println("Result of ternary operation var >= 10 ? true : false is: " + result);
+        System.out.println("Result of ternary operation var >= 10 ? true : false is: [" + result+"]");
     }
 }
