@@ -45,7 +45,6 @@ Here’s a table of contents for Java Classes and Objects:
 
 ---
 
-Feel free to adjust any section or add more details as needed!
 
 ## 1. Introduction to Classes
 
