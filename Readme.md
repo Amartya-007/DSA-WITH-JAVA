@@ -1,3 +1,4 @@
+
 # 🚀 DSA WITH JAVA 📚
 
 Welcome to the **DSA WITH JAVA** repository! This project is designed to help you learn Data Structures and Algorithms (DSA) using the Java programming language. Whether you're a beginner or looking to brush up on your DSA skills, this roadmap will guide you through the process step-by-step.
@@ -9,7 +10,7 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 #### Before diving into this course, it is recommended to have a basic understanding of:
 *  Java programming language
 *  Object-oriented programming (OOP) principles
-*  Basic knowledge of variables, loops, conditionals, and functions in Java [ If not We will cover them in this course for beginner ]
+*  Basic knowledge of variables, loops, conditionals, and functions in Java [ If not We will cover them in this course for beginners ]
 
 ## 🛣️ Roadmap
 #### This course is structured as follows:
@@ -25,7 +26,6 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 9. **Continual Learning**
 
 ### For detailed topics and practice exercises, please refer to the [Roadmap](Roadmap.md).
-
 
 ## 🌟 Highlights
 - **Hands-On Learning:** Dive into real-world scenarios and apply your knowledge through engaging exercises.
@@ -68,7 +68,13 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 ## 🌟 Acknowledgments
 #### Thank you for considering contributing to this project! Your contributions will help make learning DSA with Java easier and more accessible to everyone.
 
-## 🙌 Connect with Me
+## 🏆 Contributors
+
+We would like to thank the following contributor for their valuable contributions to this project:
+
+- **[Kushal Parmar](https://github.com/kushal0717)**
+
+## 🙌 Auther & maintainer 
 * **Name:** Amartya Vishwakarma
 
 * **GitHub:** [Amartya-007](https://github.com/Amartya-007)
