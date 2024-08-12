@@ -274,7 +274,6 @@ public class Main {
 
 ## Additional Resources
 
-- **[Java Documentation on Polymorphism](https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html)**
-- **[Java Polymorphism Examples and Exercises](https://www.javatpoint.com/polymorphism-in-java)**
+- **[Java Documentation on Polymorphism](https://www.javatpoint.com/method-overloading-in-java)**
 
 ---
