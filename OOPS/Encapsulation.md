@@ -19,12 +19,12 @@ Encapsulation helps in:
 
 Access modifiers define the visibility or scope of a class, variable, method, or constructor. Java provides four main access levels:
 
-| Modifier      | Class | Package | Subclass | World |
-| ------------- | ----- | ------- | -------- | ----- |
-| **private**   | Yes   | No      | No       | No    |
-| **default**   | Yes   | Yes     | No       | No    |
-| **protected** | Yes   | Yes     | Yes      | No    |
-| **public**    | Yes   | Yes     | Yes      | Yes   |
+| **Modifier**  | **Class** | **Package** | **Subclass** | **World** |
+| ------------- | --------- | ----------- | ------------ | --------- |
+| **private**   | Yes       | No          | No           | No        |
+| **default**   | Yes       | Yes         | No           | No        |
+| **protected** | Yes       | Yes         | Yes          | No        |
+| **public**    | Yes       | Yes         | Yes          | Yes       |
 
 - **Private:** The `private` access modifier is used to limit the visibility of a member (variable or method) only within the same class. No external class can access or modify this member directly.
 
@@ -423,6 +423,6 @@ Here, the internal state (`balance`) is still private, but we can calculate deri
 
 ---
 
-### **Conclusion**
+## **Conclusion**
 
 Encapsulation is a powerful concept that ensures better control over the internal workings of a class. By restricting direct access to class fields and using getters and setters, you can enforce data validation and integrity. This leads to more maintainable, flexible, and secure code.
