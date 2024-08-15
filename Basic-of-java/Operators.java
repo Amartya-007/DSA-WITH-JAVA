@@ -12,6 +12,7 @@ public class Operators {
 
         //*  1. Arithmetic Operators (these are binary operators)
         //*  Addition (returns the sum)
+
         int sum = a + b;
         System.out.println("The sum is: " + sum); //*  The sum is: 40
 
