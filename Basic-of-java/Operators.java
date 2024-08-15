@@ -9,11 +9,11 @@ public class Operators {
 
         int a = 10;
         int b = 30;
-        
+
         //*  1. Arithmetic Operators (these are binary operators)
         //*  Addition (returns the sum)
         int sum = a + b;
-        System.out.println("The sum is: " + sum); //*  The sum is: 40 
+        System.out.println("The sum is: " + sum); //*  The sum is: 40
 
         //*  Subtraction (returns the difference)
         int diff = a - b;
@@ -60,12 +60,12 @@ public class Operators {
         System.out.println("d -= c, d is: " + (d -= c));
         System.out.println("d *= c, d is: " + (d *= c));
         System.out.println("d /= c, d is: " + (d /= c));
-        System.out.println("d %= c, d is: " + (d %= c));
+        System.out.println("d % c is: " + (d % c));
 
         //*  4. Bitwise Operators
         int n = 10; //*  (1010 in binary)
         int z = 5;  //*  (101 in binary)
-        
+
         //*  Bitwise OR (|)
         System.out.println("Bitwise OR of n and z is: " + (n | z));
 
@@ -86,7 +86,7 @@ public class Operators {
         //*  5. Relational Operators (Comparison)
         int f1 = 5;
         int f2 = 3;
-        
+
         //*  Equal to (==)
         System.out.println("f1 == f2: " + (f1 == f2));
 
@@ -125,8 +125,9 @@ public class Operators {
         //*  if condition is false expression 2 is returned
 
         int var = 10;
-        boolean result = var >= 10 ? true : false;
-        System.out.println("Result of ternary operation var >= 10 ? true : false is: [" + result + "]");
+        boolean result = var >= 10;
+        System.out.println("Result of conditional operation var >= 10 is: [" + result + "]"); //*  true as var is 10
+
 
         //*  8. Instanceof Operator
         String str = "Hello";
