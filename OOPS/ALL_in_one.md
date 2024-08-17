@@ -70,10 +70,6 @@
 
 ---
 
-This setup will allow you to quickly jump to the respective sections in your document.
-
----
-
 ## 1. Introduction to OOPS
 
 Object-Oriented Programming System (OOPS) is a programming paradigm designed to structure software in a modular and reusable manner. It models real-world entities and their interactions through four core principles:
