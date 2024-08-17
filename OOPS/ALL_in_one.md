@@ -2,72 +2,62 @@
 
 ## Table of Contents
 
-1. [**Introduction to OOPS**](#introduction-to-oops)
+1. **Introduction to OOPS**
+   - What is OOPS?
+   - Why OOPS Matters
 
-   - [What is OOPS?](#what-is-oops)
-   - [Why OOPS Matters](#why-oops-matters)
+2. **Classes and Objects**
+   - Definition
+   - Constructors
+   - `this` Keyword
+   - Memory Allocation
+   - Static Members
 
-2. [**Classes and Objects**](#classes-and-objects)
+3. **Encapsulation**
+   - Definition
+   - Data Hiding
+   - Mutability
+   - Differential Table: Encapsulation vs Abstraction
 
-   - [Definition](#definition)
-   - [Constructors](#constructors)
-   - [`this` Keyword](#this-keyword)
-   - [Memory Allocation](#memory-allocation)
-   - [Static Members](#static-members)
+4. **Inheritance**
+   - Definition
+   - Super Keyword
+   - Multilevel Inheritance
+   - Method Overriding
+   - Final Keyword
+   - Differential Table: Inheritance vs Composition
 
-3. [**Encapsulation**](#encapsulation)
+5. **Polymorphism**
+   - Compile-time Polymorphism (Method Overloading)
+   - Runtime Polymorphism (Method Overriding)
+   - Additional Concepts: Upcasting and Downcasting
+   - Differential Table: Compile-time vs Runtime Polymorphism
 
-   - [Definition](#definition-1)
-   - [Data Hiding](#data-hiding)
-   - [Mutability](#mutability)
-   - [Differential Table: Encapsulation vs Abstraction](#differential-table-encapsulation-vs-abstraction)
+6. **Abstraction**
+   - Abstract Classes
+   - Interfaces
+   - Functional Interfaces
+   - Differential Table: Abstract Class vs Interface
 
-4. [**Inheritance**](#inheritance)
+7. **Real-world Use Cases of OOPS**
+   - Design Patterns
+     - Factory Pattern
+     - Singleton Pattern
+     - Observer Pattern
+   - Best Practices
+   - Conclusion
 
-   - [Definition](#definition-2)
-   - [Super Keyword](#super-keyword)
-   - [Multilevel Inheritance](#multilevel-inheritance)
-   - [Method Overriding](#method-overriding)
-   - [Final Keyword](#final-keyword)
-   - [Differential Table: Inheritance vs Composition](#differential-table-inheritance-vs-composition)
+8. **Advanced Techniques in OOPS**
+   - `final` Keyword
+   - `static` Keyword
 
-5. [**Polymorphism**](#polymorphism)
+9. **Interfaces and Multiple Inheritance**
+   - Default Methods
+   - Functional Interfaces
 
-   - [Compile-time Polymorphism (Method Overloading)](#compile-time-polymorphism-method-overloading)
-   - [Runtime Polymorphism (Method Overriding)](#runtime-polymorphism-method-overriding)
-   - [Additional Concepts: Upcasting and Downcasting](#additional-concepts-upcasting-and-downcasting)
-   - [Differential Table: Compile-time vs Runtime Polymorphism](#differential-table-compile-time-vs-runtime-polymorphism)
-
-6. [**Abstraction**](#abstraction)
-
-   - [Abstract Classes](#abstract-classes)
-   - [Interfaces](#interfaces)
-   - [Functional Interfaces](#functional-interfaces)
-   - [Differential Table: Abstract Class vs Interface](#differential-table-abstract-class-vs-interface)
-
-7. [**Real-world Use Cases of OOPS**](#real-world-use-cases-of-oops)
-
-   - [Design Patterns](#design-patterns)
-     - [Factory Pattern](#factory-pattern)
-     - [Singleton Pattern](#singleton-pattern)
-     - [Observer Pattern](#observer-pattern)
-   - [Best Practices](#best-practices)
-   - [Conclusion](#conclusion)
-
-8. [**Advanced Techniques in OOPS**](#advanced-techniques-in-oops)
-
-   - [`final` Keyword](#final-keyword-1)
-   - [`static` Keyword](#static-keyword)
-
-9. [**Interfaces and Multiple Inheritance**](#interfaces-and-multiple-inheritance)
-
-   - [Default Methods](#default-methods)
-   - [Functional Interfaces](#functional-interfaces-1)
-
-10. [**Exception Handling**](#exception-handling)
-    - [`try-catch` Block](#try-catch-block)
-    - [`throw` and `throws`](#throw-and-throws)
-
+10. **Exception Handling**
+    - `try-catch` Block
+    - `throw` and `throws`
 ---
 
 ## 1. Introduction to OOPS
