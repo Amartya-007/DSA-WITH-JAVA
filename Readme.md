@@ -73,6 +73,7 @@ Data Structures and Algorithms are fundamental concepts in computer science and 
 We would like to thank the following contributor for their valuable contributions to this project:
 
 - **[Kushal Parmar](https://github.com/kushal0717)**
+- **[Ishant Yadav](https://github.com/ishant8113)**
 
 ## 🙌 Auther & maintainer 
 * **Name:** Amartya Vishwakarma
