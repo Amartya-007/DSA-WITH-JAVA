@@ -479,14 +479,24 @@ Heap Sort is used when memory usage is a concern. It's efficient for large datas
 
 ### Comparison of Sorting Algorithms
 
-| Algorithm      | Best Case Time Complexity | Average Case Time Complexity | Worst Case Time Complexity | Space Complexity | Stability |
-| -------------- | ------------------------- | ---------------------------- | -------------------------- | ---------------- | --------- |
-| Bubble Sort    | O(n)                      | O(n^2)                       | O(n^2)                     | O(1)             | Stable    |
-| Insertion Sort | O(n)                      | O(n^2)                       | O(n^2)                     | O(1)             | Stable    |
-| Selection Sort | O(n^2)                    | O(n^2)                       | O(n^2)                     | O(1)             | Unstable  |
-| Merge Sort     | O(n log n)                | O(n log n)                   | O(n log n)                 | O(n)             | Stable    |
-| Quick Sort     | O(n log n)                | O(n log n)                   | O(n^2)                     | O(log n)         | Unstable  |
-| Heap Sort      | O(n log n)                | O(n log n)                   | O(n log n)                 | O(1)             | Unstable  |
+| **Algorithm**      | **Best Case Time Complexity** | **Average Case Time Complexity** | **Worst Case Time Complexity** | **Space Complexity** | **Stability** |
+| ------------------ | ----------------------------- | -------------------------------- | ------------------------------ | -------------------- | ------------- |
+| **Bubble Sort**    | O(n)                          | O(n²)                            | O(n²)                          | O(1)                 | Stable        |
+| **Insertion Sort** | O(n)                          | O(n²)                            | O(n²)                          | O(1)                 | Stable        |
+| **Selection Sort** | O(n²)                         | O(n²)                            | O(n²)                          | O(1)                 | Unstable      |
+| **Merge Sort**     | O(n log n)                    | O(n log n)                       | O(n log n)                     | O(n)                 | Stable        |
+| **Quick Sort**     | O(n log n)                    | O(n log n)                       | O(n²)                          | O(log n)             | Unstable      |
+| **Heap Sort**      | O(n log n)                    | O(n log n)                       | O(n log n)                     | O(1)                 | Unstable      |
+
+---
+
+### Key Takeaways
+
+- **Bubble Sort & Insertion Sort:** Simple but inefficient for large datasets. They are stable and operate in-place.
+- **Selection Sort:** Straightforward but also inefficient for larger lists. It is not stable and operates in-place.
+- **Merge Sort:** Efficient with a consistent time complexity of O(n log n) but requires extra space. It is stable.
+- **Quick Sort:** Generally very fast with an average-case time complexity of O(n log n), though it can degrade to O(n²) in the worst case. It uses less space compared to Merge Sort but is unstable.
+- **Heap Sort:** Provides good time complexity and operates in-place. It is not stable but performs well with large datasets.
 
 ### Summary of Sorting Algorithms
 
