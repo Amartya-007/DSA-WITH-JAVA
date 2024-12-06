@@ -58,6 +58,7 @@
 10. **Exception Handling**
     - `try-catch` Block
     - `throw` and `throws`
+
 ---
 
 ## 1. Introduction to OOPS
@@ -239,7 +240,7 @@ Encapsulation is the practice of wrapping data (fields) and methods (functions) 
 
 - **Mutability**: Encapsulation allows controlled modification of data through setters, ensuring data integrity and validation.
 
-**Differential Table: Encapsulation vs Abstraction**
+## Differential Table: Encapsulation vs Abstraction
 
 | Feature        | Encapsulation                                           | Abstraction                                               |
 | -------------- | ------------------------------------------------------- | --------------------------------------------------------- |
@@ -320,7 +321,7 @@ Inheritance is a mechanism where a new class inherits the properties and behavio
 
 - **Hybrid Inheritance**: A combination of multiple types of inheritance. Java does not support multiple inheritance through classes to avoid complexity, but it allows multiple inheritance through interfaces.
 
-### Additional Concepts
+### Additional concepts
 
 - **Super Keyword**: Used to access members (fields and
 
@@ -372,7 +373,7 @@ methods) of the parent class from the child class.
   }
   ```
 
-**Differential Table: Inheritance vs Composition**
+## Differential Table: Inheritance vs Composition
 
 | Feature             | Inheritance                                                 | Composition                                             |
 | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
@@ -449,7 +450,7 @@ Method overriding occurs when a subclass provides a specific implementation of a
   }
   ```
 
-### Additional Concepts
+### Additional Concept
 
 - **Upcasting**: Converting a subclass object to its superclass type. This is safe and occurs implicitly.
 
@@ -463,7 +464,7 @@ Method overriding occurs when a subclass provides a specific implementation of a
   Dog myDog = (Dog) myAnimal; // Downcasting
   ```
 
-**Differential Table: Compile-time vs Runtime Polymorphism**
+## Differential Table: Compile-time vs Runtime Polymorphism
 
 | Feature      | Compile-time Polymorphism                                 | Runtime Polymorphism                                        |
 | ------------ | --------------------------------------------------------- | ----------------------------------------------------------- |
@@ -558,7 +559,7 @@ An interface is a reference type in Java that can contain only constants, method
   }
   ```
 
-**Differential Table: Abstract Class vs Interface**
+## Differential Table: Abstract Class vs Interface
 
 | Feature              | Abstract Class                              | Interface                                                   |
 | -------------------- | ------------------------------------------- | ----------------------------------------------------------- |
